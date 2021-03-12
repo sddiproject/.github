@@ -4,8 +4,9 @@
 
 Resources available include:
 
-- [Project Charter](charter.md)
+- [Project Charter](charter.pdf)
 - [Artwork](artwork)
+- [Collaboration Tools](collaboration_tools.md)
 - [Resources](resources.md)
-- [How to establish a new working group](establish-working-group.md)
+- [How to establish a new working group](establish_working_group.md)
 - [Steering Committee](steering-committee)
