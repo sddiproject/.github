@@ -186,4 +186,4 @@ Instructions for subscribing to an iCal calendar for popular calendaring tools:
 [SDDI Project Lead]: mailto:operations@sddiproject.org
 [SDDI Calendar]: https://lists.sddiproject.org/calendar
 [SDDI Discussion list]: https://lists.sddiproject.org/g/discuss
-[SDDI Steering Committee]: steering_committee.md
+[SDDI Steering Committee]: steering_committee
