@@ -4,7 +4,7 @@ SDDI maintains a number of tools to enable collaboration amongst community parti
 
 ## Slack
 
-SDDI hosts a Slack organization, which can be joined using the [SlackIn joiner]. Slack serves as the main communication platform for the SDDI community outside of the mailing lists. It’s important that conversations stays on topic in each channel, and that everyone abides by the [Code of Conduct]. There are thousands of members who should all expect to have a positive experience.
+SDDI hosts a Slack organization, which can be joined using the [Slack joiner]. Slack serves as the main communication platform for the SDDI community outside of the mailing lists. It’s important that conversations stays on topic in each channel, and that everyone abides by the [Code of Conduct]. There are thousands of members who should all expect to have a positive experience.
 
 Chat is searchable and public. Do not make comments that you would not say on a video recording or in another public space. Please be courteous to others.
 
@@ -29,7 +29,7 @@ To add a channel, please [submit a request].
 
 Some general guidelines on new channels...
 
-  - Channels should be dedicated to sub-projects, community topics, or related SDDI programs/projects.
+  - Channels should be dedicated to [working groups], community topics, or related SDDI programs/projects.
   - Linking to resources will speed in the validation and processing of the channel creation request.
   - Channels are **NOT**:
     - Company specific
@@ -47,11 +47,11 @@ Typically approved requests include: GitHub, tool requests, or other tools/platf
 
 ## Mailing lists
 
-SDDI maintains a number of mailing lists for the foundation itself, it's members, and the community at large. These mailing lists are hosted at [groups.io](https://groups.io) and managed by the [SDDI Steering Committee].
+SDDI maintains a number of mailing lists for the foundation itself, it's [working groups], and the community at large. These mailing lists are hosted at [groups.io](https://groups.io) and managed by the [SDDI Steering Committee].
 
 ### Key mailing lists
 
-The primary mailing list for all techincal community discussion is in the [SDDI Discussion list]. Each hosted project and working group has it's own mailing list as well, which are [listed in the working listing](README.md#working-groups).
+The primary mailing list for all community discussion is in the [SDDI Discussion list]. Each working group has it's own mailing list as well, which are listed in the [working groups] listing.
 
 ### Moderation and Moderation Guidelines
 
@@ -179,7 +179,7 @@ Instructions for subscribing to an iCal calendar for popular calendaring tools:
   - When provisioning a new series of recurring meetings, instruct invites to remove old entries manually.
 - Courtesy Email, as a meeting lead it is a best practice to email the applicable sub-group with a note about any new meetings available, any meeting changes, or meeting cancellations. 
 
-[Code of Conduct]: code-of-conduct.md
+[Code of Conduct]: CODE_OF_CONDUCT.md
 [Slack joiner]: https://slack.sddiproject.org
 [submit a request]: https://github.com/sddiproject/overview/issues/new/choose
 [Primary SDDI Calendar]: https://lists.sddiproject.org/g/discuss/calendar
@@ -187,3 +187,4 @@ Instructions for subscribing to an iCal calendar for popular calendaring tools:
 [SDDI Calendar]: https://lists.sddiproject.org/calendar
 [SDDI Discussion list]: https://lists.sddiproject.org/g/discuss
 [SDDI Steering Committee]: steering_committee
+[Working Groups]: working_groups.md
