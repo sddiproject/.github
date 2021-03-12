@@ -8,5 +8,5 @@ Resources available include:
 - [Artwork](artwork)
 - [Collaboration Tools](collaboration_tools.md)
 - [Resources](resources.md)
-- [Working Groups](working_groups)
+- [Working Groups](working_groups.md)
 - [Steering Committee](steering_committee)
