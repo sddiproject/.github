@@ -8,5 +8,5 @@ Resources available include:
 - [Artwork](artwork)
 - [Collaboration Tools](collaboration_tools.md)
 - [Resources](resources.md)
-- [How to establish a new working group](establish_working_group.md)
-- [Steering Committee](steering-committee)
+- [Working Groups](working_groups)
+- [Steering Committee](steering_committee)
