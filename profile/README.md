@@ -19,6 +19,9 @@ Meetings are held monthly and open to anyone to join; you can register for the m
 
 ## Additional assets and materials
 
+- [Discussion List](https://lists.sddiproject.org/g/discuss)
+- [Slack](https://slack.sddiproject.org)
+- [Community Calendar](https://calendar.sddiproject.org)
 - [Project Charter](https://github.com/sddiproject/.github/tree/main/charter.pdf)
 - [Artwork](https://github.com/sddiproject/.github/tree/main/artwork)
 - [Resources](https://github.com/sddiproject/.github/tree/main/resources.md)
