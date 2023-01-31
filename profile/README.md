@@ -1,4 +1,4 @@
-![](https://github.com/sddiproject/foundation/raw/main/artwork/color/sddi-color.svg)
+![](https://github.com/sddiproject/.github/raw/main/artwork/color/sddi-color.svg)
 
 The mission of Software Developer Diversity and Inclusion (SDDI) is to discover, evaluate, and promote best practices from research and industry to increase diversity and inclusion in software engineering.
 
