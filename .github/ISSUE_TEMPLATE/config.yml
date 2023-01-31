@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Working Group Infrastructure Support
+    url: https://jira.linuxfoundation.org/plugins/servlet/theme/portal/2/group/6
+    about: Request new or changes to mailing list, Slack channel, GitHub organization, 1Password vault, or other infrastructure
