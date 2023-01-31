@@ -7,18 +7,18 @@ The mission of Software Developer Diversity and Inclusion (SDDI) is to discover,
 - [Neurodiversity WG](https://github.com/sddiproject/neurodiversity-wg)
 - [Talent Pipeline WG](https://github.com/sddiproject/talent-pipeline-wg)
 
-Details on how to launch a working group can be found [here](../working_groups.md). [Collaboration Tools](../collaboration_tools.md) are available for working groups to leverage.
+Details on how to launch a working group can be found [here](https://github.com/sddiproject/.github/tree/main/working_groups.md). [Collaboration Tools](https://github.com/sddiproject/.github/tree/main/collaboration_tools.md) are available for working groups to leverage.
 
 ## Steering Committee
 
-The [Steering Committee](../steering_committee) which provides oversight and enables collaboration between the various working groups, establish lifecycles for working groups and ensuring they have the resources to be successful. 
+The [Steering Committee](https://github.com/sddiproject/.github/tree/main/steering_committee) which provides oversight and enables collaboration between the various working groups, establish lifecycles for working groups and ensuring they have the resources to be successful. 
 
 Meetings are held monthly and open to anyone to join; you can register for the meeting [here](https://zoom-lfx.platform.linuxfoundation.org/meeting/94251628176).
 
-- [Meeting agendas/minutes/recordings](../steering_committee/meetings)
+- [Meeting agendas/minutes/recordings](https://github.com/sddiproject/.github/tree/main/steering_committee/meetings)
 
 ## Additional assets and materials
 
-- [Project Charter](../charter.pdf)
-- [Artwork](../artwork)
-- [Resources](../resources.md)
+- [Project Charter](https://github.com/sddiproject/.github/tree/main/charter.pdf)
+- [Artwork](https://github.com/sddiproject/.github/tree/main/artwork)
+- [Resources](https://github.com/sddiproject/.github/tree/main/resources.md)
