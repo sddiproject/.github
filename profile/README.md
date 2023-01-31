@@ -13,7 +13,7 @@ Details on how to launch a working group can be found [here](../working_groups.m
 
 The [Steering Committee](../steering_committee) which provides oversight and enables collaboration between the various working groups, establish lifecycles for working groups and ensuring they have the resources to be successful. 
 
-Meetings are held monthly and open to anyone to join; you can register for the meeting at TBD.
+Meetings are held monthly and open to anyone to join; you can register for the meeting [here](https://zoom-lfx.platform.linuxfoundation.org/meeting/94251628176).
 
 - [Meeting agendas/minutes/recordings](../steering_committee/meetings)
 
