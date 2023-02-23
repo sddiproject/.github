@@ -60,7 +60,7 @@ If you're dealing with a troll or bad actor:
 
 **NOTE:** You can find these actions when clicking on the **more** or **"..."** options after scrolling over the participant's name/information.
 
-Make sure whoever is running your meeting is equipped with the proper knowledge and skills. Hosts must be comfortable using these moderation tools and the Zoom settings. If you have any questions or concerns, reach out to the [LF Staff], and they can provide further guidance and training.
+Make sure whoever is running your meeting is equipped with the proper knowledge and skills. Hosts must be comfortable using these moderation tools and the Zoom settings. If you have any questions or concerns, reach out to the [LF Staff][Support Request], and they can provide further guidance and training.
 
 #### Related moderation documentation
 
@@ -86,15 +86,15 @@ If any conduct or other violation has been addressed by a host and recorded, the
 - A simple thumbs-up can go a long way! Consider using visual signals to agree to points, so you don't have to mute/unmute often during a call. This can be especially useful when people ask for lazy consensus.
 - It is common for people to step on each other when there's an audio delay and both parties are trying to communicate something. Don't worry; remember to try and pause before speaking, or consider raising your hand (if your video is on) to help the host determine who should speak first.
 
-Thanks for making ASWF meetings work great!
+Thanks for making SDDI meetings work great!
 
 [Zoom]: https://zoom.us
 [Code of Conduct]: ../CODE_OF_CONDUCT
 [Support Request]: https://supportdesk.sddiproject.org
 [host key]: https://support.zoom.us/hc/en-us/articles/205172555-Host-Key
 [latest version]: https://zoom.us/download
-[documentation on how to use their moderation tools]: https://support.zoom.us/hc/en-us/articles/201362603-Host-Controls-in-a-Meeting
-[documentation on how to use their screen sharing feature]: https://support.zoom.us/hc/en-us/articles/201362153-How-Do-I-Share-My-Screen
+[documentation on how to use its moderation tools]: https://support.zoom.us/hc/en-us/articles/201362603-Host-Controls-in-a-Meeting
+[documentation on how to use its screen-sharing feature]: https://support.zoom.us/hc/en-us/articles/201362153-How-Do-I-Share-My-Screen
 [many things can go wrong]: https://www.youtube.com/watch?v=JMOOG7rWTPg
 [Blue Yeti]: https://www.bluedesigns.com/products/yeti/
 [pop filter]: https://en.wikipedia.org/wiki/Pop_filter
