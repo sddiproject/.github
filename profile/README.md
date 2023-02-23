@@ -6,6 +6,7 @@ The mission of Software Developer Diversity and Inclusion (SDDI) is to discover,
 
 - [Neurodiversity WG](https://github.com/sddiproject/neurodiversity-wg)
 - [Talent Pipeline WG](https://github.com/sddiproject/talent-pipeline-wg)
+- [DEIA Best Practices WG](https://github.com/sddiproject/deia-best-practices-wg)
 
 Details on how to launch a working group can be found [here](https://github.com/sddiproject/.github/tree/main/working_groups.md). [Collaboration Tools](https://github.com/sddiproject/.github/tree/main/tools) are available for working groups to leverage.
 
