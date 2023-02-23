@@ -13,18 +13,23 @@
     <tbody>
 		<tr>
 			<th>color</th>
-			<td><a href="color/horizontal/sddi-horizontal-color.png" download><img src="color/horizontal/sddi-horizontal-color.png" width="200"></a></td>
-			<td><a href="color/horizontal/sddi-horizontal-color.svg" download><img src="color/horizontal/sddi-horizontal-color.svg" width="200"></a></td>
+			<td><a href="horizontal/color/sddi-horizontal-color.png" download><img src="horizontal/color/sddi-horizontal-color.png" width="200"></a></td>
+			<td><a href="horizontal/color/sddi-horizontal-color.svg" download><img src="horizontal/color/sddi-horizontal-color.svg" width="200"></a></td>
 		</tr>
 		<tr>
 			<th>white</th>
-			<td><a href="white/horizontal/sddi-horizontal-white.png" download><img src="white/horizontal/sddi-horizontal-white.png" width="200"></a></td>
-			<td><a href="white/horizontal/sddi-horizontal-white.svg" download><img src="white/horizontal/sddi-horizontal-white.svg" width="200"></a></td>
+			<td><a href="horizontal/white/sddi-horizontal-white.png" download><img src="whorizontal/white/sddi-horizontal-white.png" width="200"></a></td>
+			<td><a href="horizontal/white/sddi-horizontal-white.svg" download><img src="horizontal/white/sddi-horizontal-white.svg" width="200"></a></td>
 		</tr>
 		<tr>
 			<th>black</th>
-			<td><a href="black/horizontal/sddi-horizontal-black.png" download><img src="black/horizontal/sddi-horizontal-black.png" width="200"></a></td>
-			<td><a href="black/horizontal/sddi-horizontal-black.svg" download><img src="black/horizontal/sddi-horizontal-black.svg" width="200"></a></td>
+			<td><a href="horizontal/black/sddi-horizontal-black.png" download><img src="horizontal/black/sddi-horizontal-black.png" width="200"></a></td>
+			<td><a href="horizontal/black/sddi-horizontal-black.svg" download><img src="horizontal/black/sddi-horizontal-black.svg" width="200"></a></td>
+		</tr>
+	    	<tr>
+			<th>icon</th>
+			<td><a href="icon/color/sddi-icon-color.png" download><img src="icon/color/sddi-icon-color.png" width="200"></a></td>
+			<td><a href="icon/color/sddi-icon-color.svg" download><img src="icon/color/sddi-icon-color.svg" width="200"></a></td>
 		</tr>
 	</tbody>	
 </table>
