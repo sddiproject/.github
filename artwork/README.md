@@ -13,18 +13,18 @@
     <tbody>
 		<tr>
 			<th>color</th>
-			<td><a href="color/sddi-color.png" download><img src="color/sddi-color.png" width="200"></a></td>
-			<td><a href="color/sddi-horizontal-color.svg" download><img src="color/sddi-color.svg" width="200"></a></td>
+			<td><a href="color/horizontal/sddi-horizontal-color.png" download><img src="color/horizontal/sddi-horizontal-color.png" width="200"></a></td>
+			<td><a href="color/horizontal/sddi-horizontal-color.svg" download><img src="color/horizontal/sddi-horizontal-color.svg" width="200"></a></td>
 		</tr>
 		<tr>
 			<th>white</th>
-			<td><a href="white/sddi-white.png" download><img src="white/sddi-white.png" width="200"></a></td>
-			<td><a href="white/sddi-white.svg" download><img src="white/sddi-white.svg" width="200"></a></td>
+			<td><a href="white/horizontal/sddi-horizontal-white.png" download><img src="white/horizontal/sddi-horizontal-white.png" width="200"></a></td>
+			<td><a href="white/horizontal/sddi-horizontal-white.svg" download><img src="white/horizontal/sddi-horizontal-white.svg" width="200"></a></td>
 		</tr>
 		<tr>
 			<th>black</th>
-			<td><a href="black/sddi-black.png" download><img src="black/sddi-black.png" width="200"></a></td>
-			<td><a href="black/sddi-black.svg" download><img src="black/sddi-black.svg" width="200"></a></td>
+			<td><a href="black/horizontal/sddi-horizontal-black.png" download><img src="black/horizontal/sddi-horizontal-black.png" width="200"></a></td>
+			<td><a href="black/horizontal/sddi-horizontal-black.svg" download><img src="black/horizontal/sddi-horizontal-black.svg" width="200"></a></td>
 		</tr>
 	</tbody>	
 </table>
