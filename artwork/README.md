@@ -18,7 +18,7 @@
 		</tr>
 		<tr>
 			<th>white</th>
-			<td><a href="horizontal/white/sddi-horizontal-white.png" download><img src="whorizontal/white/sddi-horizontal-white.png" width="200"></a></td>
+			<td><a href="horizontal/white/sddi-horizontal-white.png" download><img src="horizontal/white/sddi-horizontal-white.png" width="200"></a></td>
 			<td><a href="horizontal/white/sddi-horizontal-white.svg" download><img src="horizontal/white/sddi-horizontal-white.svg" width="200"></a></td>
 		</tr>
 		<tr>
