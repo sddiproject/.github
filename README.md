@@ -1,8 +1,12 @@
----
-title: Tools
-has_children: true
----
+![](https://github.com/sddiproject/foundation/raw/main/artwork/color/sddi-color.svg)
 
-# Tools
+# SDDI project documents and other materials
 
-The Open Mainframe Project TAC provides a number of tools for hosted projects to use as a benefit for being part of the foundation. Learn more about them and how to leverage them below.
+Resources available include:
+
+- [Project Charter](charter.pdf)
+- [Artwork](artwork)
+- [Collaboration Tools](tools)
+- [Resources](resources.md)
+- [Working Groups](working_groups.md)
+- [Steering Committee](steering_committee)
