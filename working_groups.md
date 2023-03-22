@@ -30,7 +30,7 @@ At the Steering Committee meeting closest to the anniversary of the working grou
 - Adjustments to charter needed
 - Feedback on working with SDDI
 
-If there is still outstanding deliverables for the Working Group, the Steering Committee may renew the Working Group for an additional year. If the Working Group has completed all of it's deliverables, the Steering Committee may vote to move the Working Group to Emeritus status. It is generally recommended to form a new group rather than change the charter of an existing Working Group if the Working Group has completed all of it's deliverables and desires to change it's scope.
+If the Working Group has completed all of it's deliverables, the Steering Committee may vote to move the Working Group to Emeritus status.
 
 ## Emeritus
 
