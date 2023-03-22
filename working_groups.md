@@ -15,7 +15,7 @@ Any group can come forward with a proposal to form a new working group. The prop
 A template for the proposal can be found in the [wg-template repository](https://github.com/sddiproject/wg-template#readme).
 
 Once shared with the discussion list, the working group proposal will be added to the agenda of the next available Steering Committee meeting for the prospective working group to present. Prospective Working Group presentation should include overview of charter elements, along with list of initial and prospective participants. The Steering Committee can approve during the meeting, or if needed postpone vote to next meeting or do an email vote.
-Working Groups will participate in an Annual Review ( details at right )
+Working Groups will participate in an Annual Review.
 
 ## Changing Working Group charter
 
