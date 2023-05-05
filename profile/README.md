@@ -26,3 +26,4 @@ Meetings are held monthly and open to anyone to join; you can register for the m
 - [Project Charter](https://github.com/sddiproject/.github/tree/main/charter.pdf)
 - [Artwork](https://github.com/sddiproject/.github/tree/main/artwork)
 - [Resources](https://github.com/sddiproject/.github/tree/main/resources.md)
+- [Overview Deck](https://github.com/sddiproject/.github/tree/main/overview_deck)
